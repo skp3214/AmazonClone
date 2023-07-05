@@ -26,7 +26,7 @@ html {
 .nav-address,
 .nav-signin,
 .nav-cart {
-    padding: 2.5px;
+    /* padding: 1px; */
 }
 
 .logo {
@@ -51,19 +51,21 @@ html {
 
 .add-first {
     color: #cccccc;
-    font-size: 0.85rem;
+    font-size: 0.65rem;
     margin-left: 15px;
 }
 
 .add-second {
-    font-size: 1rem;
+    font-size: 0.8rem;
     margin-left: 3px;
 }
 
 .add-icon {
     display: flex;
-
+    
 }
+
+
 
 .nav-search {
     display: flex;
@@ -106,11 +108,11 @@ html {
 }
 
 span {
-    font-size: 0.7rem;
+    font-size: 0.5rem;
 }
 
 .nav-second {
-    font-size: 0.85rem;
+    font-size: 0.65rem;
     font-weight: 700;
 }
 
@@ -147,11 +149,11 @@ span {
 
 .panel-option {
     width: 70%;
-    font-size: 0.85rem;
+    font-size: 0.65rem;
 }
 
 .panel-deals {
-    font-size: 0.9rem;
+    font-size: 0.67rem;
     font-weight: 700;
 }
 
